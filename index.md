@@ -15,6 +15,10 @@ my_list = [2,3,9,3,5,6,8]
 my_list.sort()
 print(my_list)
 ```
+- [ ] make an automatic clock timer for your daily routine
+- [ ] complete github tutorial
+- [ ] gain access to microsoft azure
+
 
 
 
